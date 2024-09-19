@@ -1,7 +1,8 @@
 # aygaz_bootcamp_MLProject
 
-https://www.kaggle.com/code/seynoma/supervised-fraud-detection
-https://www.kaggle.com/code/seynoma/unsupervised-fraud-detection
+--https://www.kaggle.com/code/seynoma/supervised-fraud-detection
+
+--https://www.kaggle.com/code/seynoma/unsupervised-fraud-detection
 
 1. Veri Yükleme ve Keşifsel Veri Analizi (Exploratory Data Analysis - EDA):
 Her iki notebook'ta da çevrimiçi ödeme sahtekarlık verileriyle çalıştım. İlk olarak, veri setindeki sütunları inceledim ve bunlar üzerinden bazı tanımlayıcı istatistikler çıkardım:
